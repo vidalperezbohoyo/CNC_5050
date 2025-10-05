@@ -3,7 +3,7 @@ This project is about a cheap and robust CNC using 2080 VSLOT profiles and 3D-Pr
 
 # FluidNC configuration
 FluidNC is configurable via **.yaml**.  
-The configuration file that i have used is: link
+The configuration file that i have used is: **config.yaml**
 
 # Components:
 - Motors kit (4 Nema23 76mm 2 n.m + 4 Driver D542 + Power Supply 36v 350W): 128€
