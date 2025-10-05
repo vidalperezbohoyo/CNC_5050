@@ -1,6 +1,6 @@
 # CNC_5050
 This project is about a cheap and robust CNC using 2080 VSLOT profiles and 3D-Printing.
-
+![Texto alternativo](render_fusion.png)
 # FluidNC configuration
 FluidNC is configurable via **.yaml**.  
 The configuration file that i have used is: **config.yaml**
